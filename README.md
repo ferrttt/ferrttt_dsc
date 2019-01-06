@@ -1,2 +1,2 @@
 # ferrttt_dsc
-coursera
+* coursera
